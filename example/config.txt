@@ -1,0 +1,2 @@
+Prefix plugins/CORNAS/example/
+Plugin CORNAS inputfile parameters.txt outputfile none
